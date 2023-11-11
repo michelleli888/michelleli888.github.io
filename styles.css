@@ -57,6 +57,11 @@ img {
     padding: 10px;
 }
 
+.caption {
+    width:0;
+    min-width:100%;
+}
+
 .innertube {
     margin: 15px; /* Provides padding for the content */
 }
