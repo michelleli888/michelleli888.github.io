@@ -94,8 +94,3 @@ a:hover {
     height: 100%; 
     width: 100%; 
 }
-
-.main-footer-container{
-    display: flex;
-    align-items: center;
-  }
