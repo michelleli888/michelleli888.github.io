@@ -34,6 +34,11 @@ body {
     padding:10px;
 }
 
+#indexText {
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
 main {
     position: fixed;
     top: 100px; /* Set this to the height of the header */
@@ -95,9 +100,6 @@ a:hover {
     height: 100%; 
     width: 100%; 
 }
-{
-  transition: all .2s ease;
-}
 
 .extra-info {
   display: none;
@@ -117,6 +119,10 @@ a:hover {
   padding-left: 5px;
   width: 20px;
   border-radius: 15px;
+}
+
+.bio {
+  font-size: 130%;
 }
 
 .info:hover {
