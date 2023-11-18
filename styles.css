@@ -65,11 +65,24 @@ img {
 .caption {
     width:0;
     min-width:100%;
+    padding-top: 3%;
 }
 
 .innertube {
     margin: 15px; /* Provides padding for the content */
     font-family:Georgia, Times, 'Times New Roman', serif;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+.footerText{
+    padding-left: 90%;
 }
 
 p {
@@ -161,4 +174,8 @@ a:hover {
   width:0;
   min-width:100%;
   text-align: left !important;
+}
+
+.contactInfo{
+    padding-left: 4.5%;
 }
