@@ -118,7 +118,7 @@ a:hover {
   display: none;
   line-height: 30px;
   font-size: 12px;
-	position: absolute;
+  position: absolute;
   top: 0;
   left: 50px;
 }
@@ -139,15 +139,13 @@ a:hover {
 }
 
 .info:hover {
-  background-color: white;
-  padding: 0 0 0 5px;
-  width: 315px;
-  text-align: left !important;
+    background-color: white;
+    padding: 0 0 0 5px;
+    width: 315px;
+    text-align: left !important;
 }
-*{
-  transition: all .2s ease;
-}
-  
+
+
 .extra-info {
   display: none;
   line-height: 30px;
